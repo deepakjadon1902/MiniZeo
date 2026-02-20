@@ -89,7 +89,7 @@ src/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/velora-cart.git
+git clone https://github.com/deepakjadon1902/velora-cart.git
 2. Navigate to project directory
 cd velora-cart
 3. Install dependencies
@@ -266,3 +266,4 @@ If you like this project, consider giving it a star ⭐ on GitHub.
 ---
 
 If you want, I can also create a **GitHub-level premium README with badges, screenshots, and live demo section** that looks like top open-source projects.
+
